@@ -1,0 +1,16 @@
+[
+    {
+        "name": "輸入專案名稱A",
+        "rootPath": "輸入資料夾路徑c:\\.........",
+        "paths": [],
+        "group": "",
+        "enabled": true
+    },
+    {
+        "name": "輸入專案名稱B",
+        "rootPath": "輸入資料夾路徑c:\\.........",
+        "paths": [],
+        "group": "",
+        "enabled": true
+    }
+]
